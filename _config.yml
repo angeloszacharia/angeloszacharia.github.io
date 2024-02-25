@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Angelos Zacharia"
 title_separator          : "-"
-name                     : &name "Ph.D. Candidate"
-description              : &description "at the Norgwegian Unoversoty of Science and Technology"
+name                     : &name "Angelos Zacharia"
+description              : &description "personal description"
 url                      : https://angeloszacharia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "angeloszacharia/angeloszacharia.github.io"
@@ -22,11 +22,11 @@ repository               : "angeloszacharia/angeloszacharia.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Angelos Zacharia"
+  name             : "Ph.D. Candidate"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Department of Engineering Cybernetics, NTNU"
   location         : "Trondheim"
-  employer         : "NTNU"
+  employer         : 
   uri              : # URL
   email            : "angelos.zacharia@ntnu.no" 
 
