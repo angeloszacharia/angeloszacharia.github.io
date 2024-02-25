@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am a Ph.D. Candidate at the [Autonomous Robots Lab](https://www.autonomousrobotslab.com/), Norwegian University of Science and Technology. I hold a Bachelor of Science (BSc) degree in Electrical Engineering from the University of Cyprus, Cyprus and a Master of Science (MSc) degree in Automatic Control Systems and Robotics from the National Technical University of Athens, Greece. 
+
 <!-- 
 His main area of research is on Smart Water Networks modelling, monitoring and security, aiming to reduce water losses, safeguard water quality and respond to contamination events, as well as increase cyber-physical security. He has worked with various research challenges including state-estimation, sensor placement, real-time event diagnosis and active detection methods. He is also interested in developing open-source research tools (such as the EPANET-MATLAB Toolkit), and benchmarks. He co-organized the international competition “Battle of the Leakage Detection and Isolation Methods” (BattLeDIM) in 2020. In addition to water systems, he has worked on different application domains, including Intelligent Systems, Power Systems, Real-time robotics systems and Machine Learning for Archaeometry.
 
