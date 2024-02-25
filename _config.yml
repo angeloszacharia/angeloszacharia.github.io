@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Angelos's Homepage"
+title                    : "Angelos Zacharia"
 title_separator          : "-"
-name                     : &name "Angelos Zacharia"
-description              : &description "personal description"
+name                     : &name "Ph.D. Candidate"
+description              : &description "at the Norgwegian Unoversoty of Science and Technology"
 url                      : https://angeloszacharia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "angeloszacharia/angeloszacharia.github.io"
