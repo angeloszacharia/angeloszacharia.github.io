@@ -27,16 +27,13 @@
       ]
     },
     {
-      "name": "KIOS Research and Innovation CoE, University of Cyprus",
-      "position": "Research Engineer I",
-      "url": "https://www.kios.ucy.ac.cy/",
-      "startDate": "2022-09-01",
-      "endDate": "2023-12-01",
+      "name": "Autonomous Robots Lab, NTNU",
+      "position": "PhD Candidate",
+      "url": "https://www.autonomousrobotslab.com/",
+      "startDate": "2024-01-09",
       "highlights": [
-        "Developed cooperative control algorithms for multi-drone 3D inspection.", 
-        "Conducted simulations and real-world experiments using multi-drone systems.", 
-        "Part of the project: <a href='https://www.kios.ucy.ac.cy/glimpse/'>GLIMPSE: Intelligent Multi-drone Emergency Response System </a>", 
-        "Member of Emergency Response Technologies team at KIOS CoE"
+        "Conducting research on heterogeneous robotic systems-of-systems for rapid exploration.",
+        "Part of the Horizon Europe project: <a href='https://www.synergise-project.eu/'>SYNERGISE: A novel integrated SYstem of Systems streNgthening tEchnical and logistical capacities to ensure better Response to emerGencies by synergIStically addrEssing FRs capability gap</a>"
       ]
     }
   ],
