@@ -29,26 +29,28 @@
     {
       "name": "KIOS Research and Innovation CoE, University of Cyprus",
       "position": "Research Engineer I",
-      "url": "https://www.autonomousrobotslab.com/",
+      "url": "https://www.kios.ucy.ac.cy/",
       "startDate": "2022-09-01",
+      "endDate": "2023-12-01",
       "highlights": [
         "Developed cooperative control algorithms for multi-drone 3D inspection.",
         "Conducted simulations and real-world experiments using multi-drone systems.", 
         "Part of the project: <a href='https://www.kios.ucy.ac.cy/glimpse/'>GLIMPSE: Intelligent Multi-drone Emergency Response System</a>", 
         "Member of Emergency Response Technologies team at KIOS CoE"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "KIOS Research & Innovation CoE, University of Cyprus",
+      "position": "Research Engineer I",
+      "url": "https://www.kios.ucy.ac.cy/",
+      "startDate": "2020-01-01",
+      "endDate": "2020-10-01",
+      "highlights": [
+        "Developed <a href='https://www.youtube.com/watch?v=MgzHVPYRyfU'>ICARUS: Power dIstribution network inspeCtion plAtfoRm Using UAVS.</a>", 
+        "Conducted real-world field tests and demos of the integrated platform.", 
+        "Part of the funded project by the Electricity Authority of Cyprus", 
+        "Member of Emergency Response Technologies team at KIOS CoE"
+      ]
     }
   ],
   "education": [
@@ -142,65 +144,46 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C",
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "name": "Simulation and Modeling",
+      "level": "Master",
+      "keywords": [
+        "Gazebo",
+        "RViz",
+        "MATLAB",
+        "Simulink"
+      ]
+    },
+    {
+      "name": "Operating Systems and Tools",
+      "level": "Master",
+      "keywords": [
+        "Linux",
+        "Windows",
+        "ROS",
+        "Fusion 360"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "Greek",
+        "Romanian",
+        "English"
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
 }
