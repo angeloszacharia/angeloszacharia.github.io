@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-cv",
+          title: "cv",
+          description: "See an overview of my academic and professional background here, or download a PDF version.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "More details about my publications as well as pre-prints of recent papers can be found in my Google Scholar.",
           section: "Navigation",
@@ -22,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "See an overview of my academic and professional background here, or download a PDF version.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-plotly-js",
         
