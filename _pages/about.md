@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. PhD Candidate at Autonomous Robots Lab.
+subtitle: PhD Candidate at Autonomous Robots Lab.
 
 profile:
   align: right
