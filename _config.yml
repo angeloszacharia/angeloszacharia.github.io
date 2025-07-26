@@ -4,11 +4,10 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Angelos
-middle_name: 
+middle_name: #
 last_name: Zacharia
-#email: angelos.zacharia@ntnu.no
 contact_note: >
-  angelos.zacharia@ntnu.no
+  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Candidate at Autonomous Robots Lab (ARL), Norwegian University of Science and Technology (NTNU)
 footer_text: >
