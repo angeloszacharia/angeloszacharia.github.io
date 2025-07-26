@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  <b>PhD Candidate</b> @ <b><a href="https://www.autonomousrobotslab.com/" target="_blank">Autonomous Robots Lab (ARL)</a></b>
+subtitle: PhD Candidate @ Autonomous Robots Lab (ARL)
   
 profile:
   align: right
