@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!--I am a PhD candidate in the Department of Engineering Cybernetics at the a [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.no/) in Trondheim, where I work in the [Autonomous Robots Lab](https://www.autonomousrobotslab.com/). I earned my B.Sc. in Electrical Engineering from the [University of Cyprus](https://www.ucy.ac.cy/) in 2019, followed by an M.Sc. in Automatic Control Systems & Robotics from the [National Technical University of Athens](https://www.ntua.gr/) in 2022. -->
+I am a PhD candidate in the Department of Engineering Cybernetics at the a [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.no/) in Trondheim, where I work in the [Autonomous Robots Lab](https://www.autonomousrobotslab.com/). I earned my B.Sc. in Electrical Engineering from the [University of Cyprus](https://www.ucy.ac.cy/) in 2019, followed by an M.Sc. in Automatic Control Systems & Robotics from the [National Technical University of Athens](https://www.ntua.gr/) in 2022.
 
 My research mainly focuses on path planning, cooperative multi-robot systems, control theory and unmanned aerial vehicles (UAVs).
 
