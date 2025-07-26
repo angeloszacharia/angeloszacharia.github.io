@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at Autonomous Robots Lab.
+subtitle: PhD Candidate at Autonomous Robots Lab (ARL)
 
 profile:
   align: right
