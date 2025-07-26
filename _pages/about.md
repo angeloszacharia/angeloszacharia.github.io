@@ -6,7 +6,7 @@ subtitle: PhD Candidate at Autonomous Robots Lab.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Angelos_Zacharia_Photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
