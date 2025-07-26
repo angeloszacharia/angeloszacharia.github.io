@@ -29,13 +29,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<p style="text-align: justify;">
+<!-- <p style="text-align: justify;"> -->
 I am a PhD candidate in the Department of Engineering Cybernetics at the <b><a href="https://www.ntnu.no/" target="_blank">Norwegian University of Science and Technology (NTNU)</a></b> in Trondheim, where I work in the <b><a href="https://www.autonomousrobotslab.com/" target="_blank">Autonomous Robots Lab</a></b>. I earned my B.Sc. in Electrical Engineering from the <b><a href="https://www.ucy.ac.cy/?lang=en" target="_blank">University of Cyprus</a></b> in 2019, followed by an M.Sc. in Automatic Control Systems & Robotics from the <b><a href="https://www.ntua.gr/en/" target="_blank">National Technical University of Athens</a></b> in 2022.
-</p>
+<!-- </p> -->
 
-<p style="text-align: justify;">
+<!-- <p style="text-align: justify;"> -->
 My <b>research</b> mainly focuses on path planning, cooperative multi-robot systems, control theory and unmanned aerial vehicles (UAVs) 
-</p>
+<!-- </p> -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
