@@ -15,5 +15,5 @@ More details about my publications as well as pre-prints of recent papers can be
 {% include bib_search.liquid %}
 
 <div class="publications">
-  {% bibliography -f {{site.scholar.bibliography}}%}
+  {% bibliography %}
 </div>
