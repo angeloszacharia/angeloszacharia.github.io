@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "More details about my publications as well as pre-prints of recent papers can be found in my [Research Gate](https://www.researchgate.net/profile/Angelos-Zacharia) page, [Google Scholar](https://scholar.google.com/citations?user=PvdJyvMAAAAJ&amp;hl=en&amp;oi=ao).",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
