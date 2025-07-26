@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-blog",
+  },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "More details about my publications as well as pre-prints of recent papers can be found in my [Research Gate](https://www.researchgate.net/profile/Angelos-Zacharia) page, [Google Scholar](https://scholar.google.com/citations?user=PvdJyvMAAAAJ&amp;hl=en&amp;oi=ao).",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
