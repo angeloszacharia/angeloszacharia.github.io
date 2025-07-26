@@ -1,6 +1,28 @@
 ---
 ---
 
+Buttons:
+- `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the _data folder and adding entries that match.
+- `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text
+- `additional_info`: Adds a "More Information" button that expands a hidden text field when clicked to show the additional information text
+- `altmetric`: Adds an [Altmetric](https://www.altmetric.com/) badge (Note: if DOI is provided just use `true`, otherwise only add the altmetric identifier here - the link is generated automatically)
+- `annotation`: Adds an "Annotation" button that expands a hidden text field when clicked to show the annotation text
+- `arxiv`: Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
+- `bibtex_show`: Adds a "Bib" button that expands a hidden text field with the full bibliography entry
+- `blog`: Adds a "Blog" button redirecting to the specified link
+- `code`: Adds a "Code" button redirecting to the specified link
+- `html`: Inserts an "HTML" button redirecting to the user-specified link
+- `pdf`: Adds a "PDF" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `poster`: Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `preview`: Adds a "Preview" button
+- `selected`: Set to `true` to show on the main page
+- `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `supp`: Adds a "Supp" button to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `video`: Adds a "Video" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/video/ directory)
+- `website`: Adds a "Website" button redirecting to the specified link
+- `dimensions`: Adds a [Dimensions](https://www.dimensions.ai/) badge (Note: if DOI or PMID is provided just use `true`, otherwise only add the Dimensions' identifier here - the link is generated automatically)
+
+
 @ARTICLE{cao2025cooperative,
   author={Cao, Muqing and Nguyen, Thien-Minh and Yuan, Shenghai and Anastasiou, Andreas and Zacharia, Angelos and Papaioannou, Savvas and Kolios, Panayiotis and Panayiotou, Christos G. and Polycarpou, Marios M. and Xu, Xinhang and Zhang, Mingjie and Gao, Fei and Zhou, Boyu and Chen, Ben M. and Xie, Lihua},
   abstract={We propose the Cooperative Aerial Robot Inspection Challenge (CARIC), a simulation-based benchmark for motion planning algorithms in heterogeneous multi-uncrewed-aerial-vehicle (UAV) systems. CARIC features UAV teams with complementary sensors, realistic constraints, and evaluation metrics prioritizing inspection quality and efficiency. It offers a ready-to-use perception-control software stack and diverse scenarios to support the development and evaluation of task allocation and motion planning algorithms. Competitions using CARIC were held at the 2023 IEEE Conference on Decision and Control (CDC) and the IROS 2024 Workshop on Multi-Robot Perception and Navigation, attracting innovative solutions from research teams worldwide. This article examines the top three teams from CDC 2023, analyzing their exploration, inspection, and task allocation strategies while drawing insights into their performance across scenarios. The results highlight the task’s complexity and suggest promising research directions in cooperative multi-UAV systems. The simulation framework, including the source code and detailed instructions, is publicly available at https://ntu-aris.github.io/caric.},     
