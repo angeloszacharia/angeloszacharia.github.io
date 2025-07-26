@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate
+subtitle: <a href='#'>Affiliations</a>. Address.
   
 profile:
   align: right
