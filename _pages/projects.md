@@ -2,11 +2,11 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Funded projects that I was involved with
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+display_categories: [current, past]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
