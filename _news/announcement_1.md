@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-09-01 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+ Our paper ["HorizonBlock: Implementation of an Autonomous Counter-Drone System"](https://ieeexplore.ieee.org/abstract/document/9213871) has been accepted at the **2020 International Conference on Unmanned Aircraft Systems (ICUAS 2020)!**

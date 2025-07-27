@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: More details about my publications as well as pre-prints of recent papers can be found in my Google Scholar.
+title: Publications
+description: 
 nav: true
 nav_order: 4
 ---
+
+More details about my publications as well as pre-prints of recent papers can be found in my [Google Scholar](https://scholar.google.com/citations?user=PvdJyvMAAAAJ&hl=en).
 
 <!-- _pages/publications.md -->
 
