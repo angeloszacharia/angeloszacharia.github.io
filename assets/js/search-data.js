@@ -4,28 +4,28 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "See an overview of my academic and professional background here, or download a PDF version.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-publications",
-          title: "publications",
-          description: "More details about my publications as well as pre-prints of recent papers can be found in my Google Scholar.",
+          title: "Publications",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -376,16 +376,23 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-paper-horizonblock-implementation-of-an-autonomous-counter-drone-system-has-been-accepted-at-the-2020-international-conference-on-unmanned-aircraft-systems-icuas-2020",
+          title: 'Our paper “HorizonBlock: Implementation of an Autonomous Counter-Drone System” has been accepted at...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-icarus-automatic-autonomous-power-infrastructure-inspection-with-uavs-has-been-accepted-at-the-2021-international-conference-on-unmanned-aircraft-systems-icuas-2021",
+          title: 'Our paper “ICARUS: Automatic Autonomous Power Infrastructure Inspection with UAVs” has been accepted...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-distributed-control-for-3d-inspection-using-multi-uav-systems-has-been-accepted-at-the-31st-mediterranean-conference-on-control-and-automation-med-2023",
+          title: 'Our paper “Distributed Control for 3D Inspection using Multi-UAV Systems” has been accepted...',
+          description: "",
+          section: "News",},{id: "news-i-am-thrilled-to-announce-that-our-kios-coe-team-has-won-the-first-prize-in-the-competition-cooperative-aerial-robots-inspection-challenge-caric-that-took-place-during-the-flagship-62nd-ieee-conference-on-decision-and-control-cdc-2023-on-13-15-december-2023-in-singapore",
+          title: 'I am thrilled to announce that our KIOS CoE team has won the...',
+          description: "",
+          section: "News",},{id: "news-our-paper-automated-real-time-inspection-in-indoor-and-outdoor-3d-environments-with-cooperative-aerial-robots-has-been-accepted-at-the-2024-international-conference-on-unmanned-aircraft-systems-icuas-2024",
+          title: 'Our paper “Automated Real-Time Inspection in Indoor and Outdoor 3D Environments with Cooperative...',
+          description: "",
+          section: "News",},{id: "news-our-journal-paper-entitled-cooperative-aerial-robot-inspection-challenge-a-benchmark-for-heterogeneous-multi-uav-planning-and-lessons-learned-has-been-accepted-to-ieee-robotics-and-automation-magazine-ram",
+          title: 'Our journal paper entitled “Cooperative Aerial Robot Inspection Challenge: A Benchmark for Heterogeneous...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -451,7 +458,7 @@ ninja.data = [{
         title: 'IEEE Xplore',
         section: 'Socials',
         handler: () => {
-          window.open("https://ieeexplore.ieee.org/author/ieeexplore.ieee.org/author/37088524952/", "_blank");
+          window.open("https://ieeexplore.ieee.org/author/37088524952/", "_blank");
         },
       },{
         id: 'social-linkedin',
