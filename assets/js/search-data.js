@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "Funded projects that I was involved with",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -394,51 +394,16 @@ ninja.data = [{
           section: "News",},{id: "news-our-journal-paper-entitled-cooperative-aerial-robot-inspection-challenge-a-benchmark-for-heterogeneous-multi-uav-planning-and-lessons-learned-has-been-accepted-to-ieee-robotics-and-automation-magazine-ram",
           title: 'Our journal paper entitled “Cooperative Aerial Robot Inspection Challenge: A Benchmark for Heterogeneous...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-glimpse",
+          title: 'GLIMPSE',
+          description: "Intelligent Multi-drone Emergency Response System (GLIMPSE)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/glimpse/";
+            },},{id: "projects-synergise",
+          title: 'SYNERGISE',
+          description: "SYNERGISE project will develop an integrated toolkit for improved safety of first responders and management of natural and man-made disasters",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/synergise/";
             },},{
         id: 'social-email',
         title: 'email',
