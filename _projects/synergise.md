@@ -44,6 +44,19 @@ The SYNERGISE novel Toolkit will:
     </div>
 </div>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item rounded z-depth-1" src="https://www.youtube.com/embed/VEYS5BjmZP8" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item rounded z-depth-1" src="https://www.youtube.com/embed/eiRNcaPM5L8" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+
 
 
 
